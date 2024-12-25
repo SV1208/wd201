@@ -1,12 +1,12 @@
 {
-  "name": "hello-world",
+  "name": "http-server",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jane Doe <jane.doe@example.com>",
+  "author": "your_name <your_mail@example.com>",
   "license": "ISC",
   "description": ""
 }
